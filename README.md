@@ -13,9 +13,7 @@
 🎞️ Outside of the tech realm, I indulge in various hobbies that fuel my creativity and broaden my horizons. 
     These include traveling, photography, music, and reading.
 
-📩 I welcome direct connections and inquiries, so please don't hesitate to reach out to me at arfernd@gmail.com. 
+🌱 Please feel free to take a look at my portfolio and do not hesitate to contact me at arfernd@gmail.com, should you have any questions!
     Let's connect and explore opportunities together!
-
-🌱 Please feel free to take a look at my portfolio and do not hesitate to contact me, should you have any questions!
 
 
