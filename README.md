@@ -1,6 +1,4 @@
-
-![image](https://github.com/Almudena-Rendon/Almudena-Rendon/assets/126793941/b1148a0f-70e9-4839-bb1e-e187616f735b)
-
+![image](https://github.com/Almudena-Rendon/Almudena-Rendon/assets/126793941/45f765ba-cd7d-4b83-bd8a-22477ebdb471)
 
 👋 Hello there! My name is Almudena and I am a Full Stack Web Developer. 
 
