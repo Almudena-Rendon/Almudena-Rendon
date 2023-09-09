@@ -10,7 +10,8 @@
 
 🎞️ Beyond tech, I indulge in creative hobbies like traveling, photography, music, and reading.
 
-🌱 Please feel free to take a look at my portfolio and do not hesitate to contact me at arfernd@gmail.com, should you have any questions!
+🌱 Please feel free to take a look at my portfolio and do not hesitate to contact me, should you have any questions!
+
     Let's connect and explore opportunities together!
 
 
