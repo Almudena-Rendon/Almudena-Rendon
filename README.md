@@ -12,6 +12,7 @@
 
 🌱 Please feel free to take a look at my portfolio and do not hesitate to contact me, should you have any questions!
 
-    Let's connect and explore opportunities together!
+
+   Let's connect and explore opportunities together!
 
 
