@@ -8,8 +8,7 @@
 🎓 My educational and professional journey has taken me across international borders, providing me with valuable experiences and shaping my global perspective. 
    I am fluent in Spanish, English, and German, allowing me to effectively communicate and collaborate with diverse teams. Additionally, I have a working knowledge of Norwegian.
 
-🎞️ Outside of the tech realm, I indulge in various hobbies that fuel my creativity and broaden my horizons. 
-    These include traveling, photography, music, and reading.
+🎞️ Beyond tech, I indulge in creative hobbies like traveling, photography, music, and reading.
 
 🌱 Please feel free to take a look at my portfolio and do not hesitate to contact me at arfernd@gmail.com, should you have any questions!
     Let's connect and explore opportunities together!
