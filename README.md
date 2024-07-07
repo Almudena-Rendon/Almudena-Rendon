@@ -2,7 +2,7 @@
 
 👋 Welcome to my profile! My name is Almudena, and I'm a multilingual full-stack web developer with a passion for innovative designs.
 
-💻 As a front-end developer, I specialize in React.js, JavaScript, Typescript, HTML, CSS, Bootstrap, Sass, Tailwind and MUI. On the back end, JavaScript and Node.js, and have knowledge of handling databases with MySQL.
+💻 My tech stack is: JavaScript, TypeScript, React, MySQL, Node, HTML5, CSS3, Tailwind CSS, Gitlab, SCRUM Methodology.
 
 🎓 My international educational and professional background has shaped my global perspective. I am fluent in Spanish, English, and German, and I have a working knowledge of Norwegian.
 
