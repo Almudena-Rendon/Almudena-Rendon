@@ -1,5 +1,6 @@
 
-![017809_Logo Final-02](https://github.com/user-attachments/assets/ec42a612-cf5c-437f-81fa-6c8e596a93dc)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1584 x 300 px) (3)](https://github.com/user-attachments/assets/bb4ba144-dc4f-4a5d-8d2d-3668969f27ca)
+
 
 Welcome to Almu Codes' world!
 
