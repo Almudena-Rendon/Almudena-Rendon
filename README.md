@@ -22,9 +22,14 @@ And I'm always learning something new!
 
 I am fluent in Spanish, English, German, and Norwegian. Beyond tech, I love photography and traveling.
 
-Please feel free to take a look at my portfolio, and do not hesitate to contact me if you have any questions!
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Almudena-Rendon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Let's connect and explore opportunities together!
+---
+[![](https://visitcount.itsvg.in/api?id=Almudena-Rendon&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/almudena-rendon-fernandez/)
 
