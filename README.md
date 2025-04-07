@@ -26,3 +26,7 @@ Please feel free to take a look at my portfolio, and do not hesitate to contact 
 
 Let's connect and explore opportunities together!
 
+Social Media
+
+[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/almudena-rendon-fernandez/)
+
