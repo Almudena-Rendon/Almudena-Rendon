@@ -8,9 +8,9 @@ My name is Almudena, and I'm a multilingual full-stack web developer with a pass
 
 My tech stack includes JavaScript, TypeScript, React, MySQL, Node.js, HTML5, CSS3, and Tailwind, and I am always learning something new.
 
-https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white 
-https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
-https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 Beyond tech, I love foreign languages—I am fluent in Spanish, English, German, and Norwegian.
 I am also passionate about photography and traveling.
