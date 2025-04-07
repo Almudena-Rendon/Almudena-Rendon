@@ -4,9 +4,11 @@
 
 [![Welcome to Almu Codes' world! ](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f5a5-fe0f&text=Welcome%20to%20Almu%20Codes%27%20world%21%20)](https://pimp-my-readme-next.vercel.app)
 
+# 🚀 About Me:
+
 My name is Almudena, and I'm a multilingual full-stack web developer with a passion for innovative designs.
 
-My tech stack includes:
+# 🚀 Tech Stack:
 
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
@@ -19,8 +21,6 @@ My tech stack includes:
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
 And I'm always learning something new!
-
-I am fluent in Spanish, English, German, and Norwegian. Beyond tech, I love photography and traveling.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
