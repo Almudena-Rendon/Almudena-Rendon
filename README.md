@@ -15,5 +15,3 @@ Please feel free to take a look at my portfolio, and do not hesitate to contact 
 
 Let's connect and explore opportunities together!
 
-[![Almudena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Almudena-Rendon)](https://github.com/Almudena-Rendon)
-
