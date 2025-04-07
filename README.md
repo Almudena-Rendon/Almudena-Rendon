@@ -23,13 +23,17 @@ And I'm always learning something new!
 I am fluent in Spanish, English, German, and Norwegian. Beyond tech, I love photography and traveling.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Almudena-Rendon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Almudena-Rendon&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Almudena-Rendon&icon=0&color=0)](https://visitcount.itsvg.in)
 
+You can also find me on LinkedIn: 
 
 [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/almudena-rendon-fernandez/)
 
