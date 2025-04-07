@@ -6,14 +6,20 @@
 
 My name is Almudena, and I'm a multilingual full-stack web developer with a passion for innovative designs.
 
-My tech stack includes JavaScript, TypeScript, React, MySQL, Node.js, HTML5, CSS3, and Tailwind, and I am always learning something new.
+My tech stack includes:
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
-Beyond tech, I love foreign languages—I am fluent in Spanish, English, German, and Norwegian.
-I am also passionate about photography and traveling.
+And I'm always learning something new!
+
+I am fluent in Spanish, English, German, and Norwegian. Beyond tech, I love photography and traveling.
 
 Please feel free to take a look at my portfolio, and do not hesitate to contact me if you have any questions!
 
