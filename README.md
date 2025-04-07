@@ -2,7 +2,7 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1584 x 300 px) (3)](https://github.com/user-attachments/assets/bb4ba144-dc4f-4a5d-8d2d-3668969f27ca)
 
 
-[![Welcome to Almu Codes' world! ](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=1f5a5-fe0f&text=Welcome%20to%20Almu%20Codes%27%20world%21%20)](https://pimp-my-readme-next.vercel.app)
+[![Welcome to Almu Codes' world!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Welcome%20to%20Almu%20Codes%27%20world%21)](https://pimp-my-readme-next.vercel.app)
 
 # About Me:
 
@@ -26,13 +26,10 @@ And I'm always learning something new!
 
 # GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Almudena-Rendon&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Almudena-Rendon&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
