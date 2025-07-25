@@ -32,7 +32,7 @@ And I'm always learning something new!
 
 ---
 
-# Let's Connect!:
+# Let's Connect!: 
 
 [![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/almudena-rendon-fernandez/)
 
