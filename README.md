@@ -9,7 +9,7 @@ I’m a full-stack developer passionate about creating innovative web solutions.
 I am fluent in Spanish, English, German and Norwegian.        
 Beyond tech, I love photography and travelling.        
         
-# Tech Stack:      
+# Tech Stack:       
 
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
