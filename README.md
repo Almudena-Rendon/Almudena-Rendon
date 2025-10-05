@@ -3,7 +3,7 @@
  
 [![Welcome to Almu Codes' world!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Welcome%20to%20Almu%20Codes%27%20world%21)](https://pimp-my-readme-next.vercel.app)
       
-# About Me:            
+# About Me:             
             
 I’m a full-stack developer passionate about creating innovative web solutions.      
 I am fluent in Spanish, English, German and Norwegian.                     
