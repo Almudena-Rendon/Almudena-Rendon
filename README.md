@@ -29,9 +29,4 @@ And I'm always learning something new!
 ![](https://nirzak-streak-stats.vercel.app/?user=Almudena-Rendon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Almudena-Rendon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-# Let's Connect!: 
-
-[![LinkedIn](https://pimp-my-readme-next.vercel.app/api/social-media?social=LinkedIn)](https://www.linkedin.com/in/almudena-rendon-fernandez/)
 
