@@ -2,7 +2,7 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner (1584 x 300 px) (3)](https://github.com/user-attachments/assets/bb4ba144-dc4f-4a5d-8d2d-3668969f27ca)   
      
 [![Welcome to Almu Codes' world!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Welcome%20to%20Almu%20Codes%27%20world%21)](https://pimp-my-readme-next.vercel.app)
-           
+            
 # About Me:                             
                        
 I’m a full-stack developer passionate about creating innovative web solutions.            
