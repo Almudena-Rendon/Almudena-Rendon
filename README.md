@@ -6,7 +6,7 @@
 # About Me:                                          
                                              
 I’m a full-stack developer passionate about creating innovative web solutions.                                 
-I am fluent in Spanish, English, German and Norwegian.                                           
+I am fluent in Spanish, English, German and Norwegian.                                            
 Beyond tech, I love photography and travelling.                                                          
                                
 # Tech Stack:                     
